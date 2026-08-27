@@ -52,8 +52,8 @@ function atualizarEstrelas() {
 // HACKER DEBUGGING: CORAÇÃO DE "EU TE AMO"
 // =====================================
 const particulasTexto = [];
-const quantidadeTextos = 1200; // Quantidade de blocos de texto
-const caracteresHacker = ["Eu Te Amo", "1", "0", "<3", "LOVE", "TE AMO", "01000101"];
+const quantidadeTextos = 300; // Quantidade de blocos de texto
+const caracteresHacker = ["Eu Te Amo", "<3", "LOVE", "TE AMO", ];
 
 function criarCoracaoHacker() {
     particulasTexto.length = 0;
